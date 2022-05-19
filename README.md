@@ -10,6 +10,7 @@ E cria mapa folium
 
 <br>
 
+
 ### TODO:
 
 1. Rotina para atualizar periodicamente.
