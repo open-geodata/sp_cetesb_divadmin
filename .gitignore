@@ -1,3 +1,6 @@
+# Data
+*.gpkg-shm
+
 # IDEs
 .idea/
 .vscode/
