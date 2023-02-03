@@ -6,7 +6,7 @@ Agência Ambiental de Assis,Via Chico Mendes,,75,Quinta dos Flamboyants,Assis,19
 Agência Ambiental de Atibaia,Rua Castro Fafe,,295,Centro,Atibaia,12940-440,(11) 4411-6466,(11) 4411-6466,atibaia_cetesb@sp.gov.br
 Agência Ambiental de Avaré,Avenida Governador Mário Covas,,525,Vila Industrial,Avaré,18705-851,(14) 3732-4900,,avare_cetesb@sp.gov.br
 Agência Ambiental de Barretos,Rua 30,,564,Centro,Barretos,14780-120,(17) 3323-1790,,barretos_cetesb@sp.gov.br
-Agência Ambiental de Bauru,Avenida Rodrigues Alves,Quadra 38,138,Vila Coralina,Bauru,17030-000,(14) 3203-2058,(14) 3203-2344,bauru_cetesb@sp.gov.br
+Agência Ambiental de Bauru,Avenida Cruzeiro do Sul,Quadra 13,15,Jardim Carvalho,Bauru,17030-743,(14) 3878-4099,,bauru_cetesb@sp.gov.br
 Agência Ambiental de Botucatu,Rua Lourenço Carmelo,,180,Jardim Paraíso,Botucatu,18610-265,(14) 3882-1134,(14) 3882-1134,botucatu_cetesb@sp.gov.br
 Agência Ambiental de Campinas,Avenida Brasil,,2340,Jardim Chapadão,Campinas,13070-178,(19) 3241-1744,,campinas_cetesb@sp.gov.br
 Agência Ambiental de Capão Bonito,Rua Denise,,131,Terras de Imbirucu,Capão Bonito,18304-700,(15) 3542-3173,(15) 3542-3173,capaobonito_cetesb@sp.gov.br
@@ -20,7 +20,7 @@ Agência Ambiental de Itu,Rua Santa Rita,,1165,Centro,Itu,13300-065,(11) 4013-34
 Agência Ambiental de Jaboticabal,Avenida Angelo Morello,,60,Jardim Santa Rosa,Jaboticabal,14875-290,(16) 3203-9400,(16) 3203-9400,jaboticabal_cetesb@sp.gov.br
 Agência Ambiental de Jales,Rua Nova Iorque,,1016,Jardim Monterey,Jales,15703-326,(17) 3621-1042,(17) 3621-1042,jales_cetesb@sp.gov.br
 Agência Ambiental de Jundiaí,Rua João Ferrara,,555,Jardim Pitangueiras II,Jundiaí,13206-714,(11) 4817-1898,(11) 4587-3597,jundiai_cetesb@sp.gov.br
-Agência Ambiental de Limeira,Avenida Vitório Bortolan,,1450,Parque Abílio Pedro,Limeira,13483-132,(19) 3451-6203,(19) 3451-6203,limeira_cetesb@sp.gov.br
+Agência Ambiental de Limeira,Rua Antonio Bastelli,,76,Parque Tecnológico,Limeira,13483-572,(19) 3451-6203,(19) 3451-6203,limeira_cetesb@sp.gov.br
 Agência Ambiental de Marília,Rua Santa Helena,,436,Jardim Alvorada,Marília,17513-322,(14) 3422-4666,(14) 3422-4666,marilia_cetesb@sp.gov.br
 Agência Ambiental de Mogi Guaçu,Rua Hugo Pancieira,,400,Pedregulhal,Mogi Guaçu,13845-190,(19) 3818-0396,(19) 3818-0396,mogiguacu_cetesb@sp.gov.br
 Agência Ambiental de Mogi das Cruzes,Rua Francisco Franco,,133,Centro,Mogi das Cruzes,08710-590,(11) 4723-2130,,mogi_cetesb@sp.gov.br
@@ -28,7 +28,7 @@ Agência Ambiental de Osasco,Rua Anete Queiroz Lacerda,,80,Jardim Bonfiglioli,S�
 Agência Ambiental de Paulínia,Rua Angelo Varandas,,550,Jardim Santa Terezinha,Paulínia,13140-802,(19) 3844-0466,(19) 3844-0466,paulinia_cetesb@sp.gov.br
 Agência Ambiental de Piracicaba,Rua do Rosário,,566,Centro,Piracicaba,13400-183,(19) 3402-6863,(19) 3402-6863,piracicaba_cetesb@sp.gov.br
 Agência Ambiental de Presidente Prudente,Rua João Gonçalves Foz,,1736A,Jardim das Rosas,Presidente Prudente,19060-050,(18) 3223-5001,,prudente_cetesb@sp.gov.br
-Agência Ambiental de Registro,Rua São Bento,,249,Jardim São Nicolau,Registro,11900-000,(13) 3822-3855,(13) 3822-4437,registro_cetesb@sp.gov.br
+Agência Ambiental de Registro,Avenida Wild Jose de Souza,,456,Vila Tupy,Registro,11900-000,(13) 2130-4056,,registro_cetesb@sp.gov.br
 Agência Ambiental de Ribeirão Preto,Avenida Presidente Kennedy,,1760,Ribeirânia,Ribeirão Preto,14096-350,(16) 3617-4700,(16) 3617-4207,ribeirao_cetesb@sp.gov.br
 Agência Ambiental de Santana,Rua Luis Carlos Gentile de Laet,,553,Horto Florestal,São Paulo,02378-000,(11) 2203-2700,(11) 2203-2700,santana_cetesb@sp.gov.br
 Agência Ambiental de Santo Amaro,Rua Anete Queiroz Lacerda,,80,Jardim Bonfiglioli,São Paulo,05591-080,(11) 3721-2244,(11) 3721-2244,santoamaro_cetesb@sp.gov.br
@@ -43,5 +43,5 @@ Agência Ambiental de Taubaté,Avenida Itambé,,38,Santa Luzia,Taubaté,12091-20
 Agência Ambiental de Votuporanga,Avenida Deputado Aureo Ferreira,,1724,Vila Paes,Votuporanga,15500-112,(17) 3421-4004,(17) 3421-4004,votuporanga_cetesb@sp.gov.br
 Agência Ambiental do ABC I,Rua dos Vianas,,625,Baeta Neves,São Bernardo do Campo,09760-040,(11) 4123-4555,(11) 4123-4555,abc1_cetesb@sp.gov.br
 Agência Ambiental do ABC II,Rua dos Vianas,,625,Baeta Neves,São Bernardo do Campo,09760-040,(11) 4123-4555,(11) 4123-4555,abc2_cetesb@sp.gov.br
-Agência Ambiental do Tatuapé,Avenida Celso Garcia,,2593,Belenzinho,São Paulo,03063-000,(11) 2295-0005,(11) 2294-6566,tatuape_cetesb@sp.gov.br
+Agência Ambiental do Tatuapé,Avenida Celso Garcia,,2593,Belenzinho,São Paulo,03063-000,(11) 2294-6566,(11) 2294-6566,tatuape_cetesb@sp.gov.br
 Sede,Avenida Prof Frederico Hermann Jr,,345,Alto de Pinheiros,São Paulo,05459-900,(11) 3030-6000,,

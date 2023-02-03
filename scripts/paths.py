@@ -1,20 +1,34 @@
-import os
+"""
+Pastas do Projeto
+nov.22
+"""
 
 
-data_path = os.path.join('..', 'data')
-os.makedirs(data_path, exist_ok=True)
+from pathlib import Path
 
-input_path = os.path.join(data_path, 'input')
-os.makedirs(input_path, exist_ok=True)
+project_path = Path(__file__).parents[1]
 
-output_path = os.path.join(data_path, 'output')
-os.makedirs(output_path, exist_ok=True)
+# Data
+data_path = project_path / 'data'
+data_path.mkdir(exist_ok=True)
 
-output_path_tab = os.path.join(output_path, 'tab')
-os.makedirs(output_path_tab, exist_ok=True)
+# Input
+input_path = data_path / 'input'
+input_path.mkdir(exist_ok=True)
 
-output_path_geo = os.path.join(output_path, 'geo')
-os.makedirs(output_path_geo, exist_ok=True)
+# Output
+output_path = data_path / 'output'
+output_path.mkdir(exist_ok=True)
 
-output_path_map = os.path.join(output_path, 'map')
-os.makedirs(output_path_map, exist_ok=True)
+output_path_tab = output_path / 'tab'
+output_path_tab.mkdir(exist_ok=True)
+
+output_path_geo = output_path / 'geo'
+output_path_geo.mkdir(exist_ok=True)
+
+output_path_map = output_path / 'map'
+output_path_map.mkdir(exist_ok=True)
+
+
+if __name__ == '__main__':
+    print(project_path)
