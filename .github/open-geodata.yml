@@ -1,0 +1,27 @@
+name: open-geodata
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Pushes POST to another repository
+        id: push_directory
+        uses: cpina/github-action-push-to-another-repository@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        with:
+          source-directory: 'data/output/zips'
+          user-name: michelmetran
+          user-email: michelmetran@gmail.com
+
+          destination-github-username: 'open-geodata'
+          destination-repository-name: 'open-geodata'
+          target-branch: main
+          target-directory: /src/open_geodata/data/geo/sp_ff_apa-corumbatai
+          commit-message: See ORIGIN_COMMIT from $GITHUB_REF   
+
