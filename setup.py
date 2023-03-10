@@ -13,7 +13,7 @@ for line in open('requirements.txt', encoding='utf-8'):
     if not li.startswith('#'):
         requirements.append(line.rstrip())
 
-VERSION = (0, 0, 3)
+VERSION = (0, 0, 4)
 __version__ = '.'.join(map(str, VERSION))
 
 setup(
@@ -43,5 +43,5 @@ setup(
     packages=find_packages(),
     # Dados
     include_package_data=True,
-    package_data={'': ['data/output/zips/*.7z', 'data/output/tab/*.csv']},
+    package_data={'': ['data/output/geo/*.7z', 'data/output/tab/*.csv']},
 )

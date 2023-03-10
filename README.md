@@ -1,8 +1,19 @@
 # CETESB
 
-[GitHub](https://github.com/open-geodata/sp_cetesb_divadmin)
+[GitHub](https://github.com/open-geodata/sp_cetesb_divadmin)\
+[PyPi](https://pypi.org/project/sp-cetesb-divadmin/)
 
 > Atualizado em 10.03.2023
+
+<br>
+
+## Instalar
+
+```powershell
+!pip3 install sp-cetesb-divadmin
+```
+
+
 
 <br>
 

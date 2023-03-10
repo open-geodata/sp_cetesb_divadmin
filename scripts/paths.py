@@ -36,8 +36,8 @@ output_path_gpkg.mkdir(exist_ok=True)
 output_path_map = output_path / 'map'
 output_path_map.mkdir(exist_ok=True)
 
-output_path_zip = output_path / 'zips'
-output_path_zip.mkdir(exist_ok=True)
+output_path_geo = output_path / 'geo'
+output_path_geo.mkdir(exist_ok=True)
 
 if __name__ == '__main__':
     print(project_path)
