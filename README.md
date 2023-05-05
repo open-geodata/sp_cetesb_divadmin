@@ -13,8 +13,6 @@
 !pip3 install sp-cetesb-divadmin
 ```
 
-
-
 <br>
 
 _Script_ para obter a divisão administrativa da CETESB, em formato tabular.
