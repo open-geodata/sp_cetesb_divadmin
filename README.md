@@ -3,7 +3,7 @@
 [GitHub](https://github.com/open-geodata/sp_cetesb_divadmin)\
 [PyPI](https://pypi.org/project/sp-cetesb-divadmin/)
 
-> Atualizado em 10.03.2023
+> Atualizado em 27.11.2023
 
 <br>
 
